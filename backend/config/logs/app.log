@@ -1,0 +1,209 @@
+[2026-06-29 10:02:06] [INFO] api: Question received: what are exam rules
+[2026-06-29 10:02:06] [INFO] api: Sending question to LLM: what are exam rules
+[2026-06-29 10:02:26] [INFO] api: LLM answered. Length: 469 chars
+[2026-06-29 10:02:26] [INFO] api: Answer: Our exam rules include:
+
+* Adherence to the scheduled examination timings and dates
+* Presence in th...
+[2026-06-29 10:07:55] [INFO] api: Health check endpoint was called
+[2026-06-29 10:07:55] [INFO] api: Health check endpoint was called
+[2026-06-29 10:07:59] [INFO] api: Question received: How do I register for courses?
+[2026-06-29 10:07:59] [INFO] api: Sending question to LLM: How do I register for courses?
+[2026-06-29 10:08:14] [INFO] api: LLM answered. Length: 355 chars
+[2026-06-29 10:08:14] [INFO] api: Answer: To register for courses, please check the university's online course registration portal or visit th...
+[2026-06-29 10:09:14] [INFO] api: Question received: do you know the university of Dar er salaam
+[2026-06-29 10:09:14] [INFO] api: Sending question to LLM: do you know the university of Dar er salaam
+[2026-06-29 10:09:22] [INFO] api: LLM answered. Length: 267 chars
+[2026-06-29 10:09:22] [INFO] api: Answer: The University of Dar es Salaam (US) is located in Dar es Salaam, Tanzania. It's a public research u...
+[2026-06-29 10:11:06] [INFO] api: Health check endpoint was called
+[2026-06-29 10:13:54] [INFO] api: Question received: what is the SQL
+[2026-06-29 10:13:54] [INFO] api: Sending question to LLM: what is the SQL
+[2026-06-29 10:14:04] [INFO] api: LLM answered. Length: 372 chars
+[2026-06-29 10:14:04] [INFO] api: Answer: I'm happy to help with university services. However, I can only provide assistance with university-r...
+[2026-06-29 10:14:30] [INFO] api: Health check endpoint was called
+[2026-06-29 10:14:30] [INFO] api: Health check endpoint was called
+[2026-06-29 10:14:38] [INFO] api: Question received: How do I apply for a hostel?
+[2026-06-29 10:14:38] [INFO] api: Sending question to LLM: How do I apply for a hostel?
+[2026-06-29 10:14:51] [INFO] api: LLM answered. Length: 551 chars
+[2026-06-29 10:14:51] [INFO] api: Answer: To apply for a hostel room, please follow these steps:
+
+1. Check your course details on the Universi...
+[2026-06-29 10:42:39] [INFO] api: New user registered: said@gmail.com
+[2026-06-29 10:42:39] [INFO] api: Health check called
+[2026-06-29 10:42:39] [INFO] api: Health check called
+[2026-06-29 10:42:53] [INFO] api: User logged out: said@gmail.com
+[2026-06-29 10:43:20] [WARNING] api: Failed login attempt for: saidshishi919@gmail.com
+[2026-06-29 10:43:36] [WARNING] api: Failed login attempt for: saidshishi919@gmail.com
+[2026-06-29 10:43:44] [WARNING] api: Failed login attempt for: saidshishi919@gmail.com
+[2026-06-29 10:43:51] [WARNING] api: Failed login attempt for: saidshishi919@gmail.com
+[2026-06-29 10:44:30] [WARNING] api: Failed login attempt for: saidshishi919@gmail.com
+[2026-06-29 10:53:11] [WARNING] api: Failed login attempt for: saidshishi919@gmail.com
+[2026-06-29 10:54:49] [INFO] api: New user registered: juma@gmail.com
+[2026-06-29 10:54:49] [INFO] api: Health check called
+[2026-06-29 10:54:49] [INFO] api: Health check called
+[2026-06-29 10:55:13] [INFO] api: Question from juma@gmail.com: How do I pay my fees?
+[2026-06-29 10:55:13] [INFO] api: Sending question to LLM: How do I pay my fees?
+[2026-06-29 10:55:33] [INFO] api: LLM answered. Length: 307 chars
+[2026-06-29 10:55:33] [INFO] api: Answer generated for juma@gmail.com: You can pay your fees through the University's online portal or in person at the Student Services Ce...
+[2026-06-29 10:56:01] [INFO] api: Question from juma@gmail.com: do you know swahili
+[2026-06-29 10:56:01] [INFO] api: Sending question to LLM: do you know swahili
+[2026-06-29 10:56:11] [INFO] api: LLM answered. Length: 164 chars
+[2026-06-29 10:56:11] [INFO] api: Answer generated for juma@gmail.com: Swahili ni lugha nyingine ambayo sasa inasimamia maafisa ya chuo kikuu. Kwa hivyo, sio lengo la kuto...
+[2026-06-29 10:57:09] [INFO] api: Question from juma@gmail.com: unazijua hostel za mabibo
+[2026-06-29 10:57:09] [INFO] api: Sending question to LLM: unazijua hostel za mabibo
+[2026-06-29 10:57:19] [INFO] api: LLM answered. Length: 138 chars
+[2026-06-29 10:57:19] [INFO] api: Answer generated for juma@gmail.com: Kwa sasa. Kuna hostel 3 kwenye campus. Unazijua hilo ni:
+
+- Unajikunja: Bwanda
+- Unaweza kuweka kand...
+[2026-06-29 10:57:47] [INFO] api: User logged out: juma@gmail.com
+[2026-06-29 10:58:31] [INFO] api: User logged in: juma@gmail.com
+[2026-06-29 10:58:31] [INFO] api: Health check called
+[2026-06-29 10:58:31] [INFO] api: Health check called
+[2026-06-29 10:58:44] [INFO] api: User logged out: juma@gmail.com
+[2026-06-29 10:59:21] [INFO] api: New user registered: tom@gmail.com
+[2026-06-29 10:59:21] [INFO] api: Health check called
+[2026-06-29 10:59:21] [INFO] api: Health check called
+[2026-06-29 10:59:28] [INFO] api: User logged out: tom@gmail.com
+[2026-06-29 10:59:49] [INFO] api: User logged in: juma@gmail.com
+[2026-06-29 10:59:49] [INFO] api: Health check called
+[2026-06-29 10:59:49] [INFO] api: Health check called
+[2026-06-29 11:08:42] [INFO] api: Question from juma@gmail.com: How do I register for courses?
+[2026-06-29 11:08:42] [INFO] api: Sending question to LLM: How do I register for courses?
+[2026-06-29 11:09:02] [INFO] api: LLM answered. Length: 339 chars
+[2026-06-29 11:09:02] [INFO] api: Answer generated for juma@gmail.com: To register for courses, please check your university's online portal or visit the student services ...
+[2026-06-29 11:09:34] [INFO] api: User logged out: juma@gmail.com
+[2026-06-29 11:14:42] [INFO] api: User logged in: juma@gmail.com
+[2026-06-29 11:14:42] [INFO] api: Health check called
+[2026-06-29 11:14:42] [INFO] api: Health check called
+[2026-06-29 11:15:53] [INFO] api: Question from juma@gmail.com: How do I pay my fees?
+[2026-06-29 11:15:53] [INFO] api: Sending question to LLM: How do I pay my fees?
+[2026-06-29 11:16:14] [INFO] api: LLM answered. Length: 407 chars
+[2026-06-29 11:16:14] [INFO] api: Answer generated for juma@gmail.com: To pay your fees, please follow these steps:
+
+1. Log in to the university's online portal using your...
+[2026-06-29 11:35:15] [INFO] api: Health check called
+[2026-06-29 11:35:15] [INFO] api: Health check called
+[2026-06-29 11:35:29] [INFO] api: Question from juma@gmail.com: How does AI work in a technical capacity
+[2026-06-29 11:35:29] [INFO] api: Sending question to LLM: How does AI work in a technical capacity
+[2026-06-29 11:36:00] [INFO] api: LLM answered. Length: 1033 chars
+[2026-06-29 11:36:00] [INFO] api: Answer generated for juma@gmail.com: I'm happy to help you with your university queries. However, I'd like to clarify that our support se...
+[2026-06-29 11:36:21] [INFO] api: Health check called
+[2026-06-29 11:36:21] [INFO] api: Health check called
+[2026-06-29 12:00:12] [INFO] api: Question from juma@gmail.com: How do I register for courses?
+[2026-06-29 12:00:12] [INFO] api: Sending question to LLM: How do I register for courses?
+[2026-06-29 12:00:34] [INFO] api: LLM answered. Length: 508 chars
+[2026-06-29 12:00:34] [INFO] api: Answer generated for juma@gmail.com: To register for courses, please follow these steps:
+
+1. Check your course schedule on the University...
+[2026-06-29 12:01:21] [INFO] api: Health check called
+[2026-06-29 12:01:21] [INFO] api: Health check called
+[2026-06-29 12:02:14] [INFO] api: User logged out: juma@gmail.com
+[2026-06-29 12:02:44] [INFO] api: User logged in: juma@gmail.com
+[2026-06-29 12:02:44] [INFO] api: Health check called
+[2026-06-29 12:02:44] [INFO] api: Health check called
+[2026-06-29 12:03:18] [INFO] api: Question from juma@gmail.com: How do I pay my fees?
+[2026-06-29 12:03:18] [INFO] api: Sending question to LLM: How do I pay my fees?
+[2026-06-29 12:03:28] [INFO] api: LLM answered. Length: 346 chars
+[2026-06-29 12:03:28] [INFO] api: Answer generated for juma@gmail.com: To pay your fees, you can visit the University's website or login to your online portal (e.g., Stude...
+[2026-06-29 12:26:25] [INFO] api: User logged out: juma@gmail.com
+[2026-06-29 12:27:02] [INFO] api: User logged in: juma@gmail.com
+[2026-06-29 12:27:02] [INFO] api: Health check called
+[2026-06-29 12:27:02] [INFO] api: Health check called
+[2026-06-29 12:27:29] [INFO] api: Question from juma@gmail.com: What are the exam rules?
+[2026-06-29 12:27:29] [INFO] api: Sending question to LLM: What are the exam rules?
+[2026-06-29 12:27:56] [INFO] api: LLM answered. Length: 624 chars
+[2026-06-29 12:27:56] [INFO] api: Answer generated for juma@gmail.com: For exam rules, we have several policies that apply to all students, including:
+
+* Exam timetables: ...
+[2026-06-29 13:40:41] [INFO] api: Health check called
+[2026-06-29 13:40:41] [INFO] api: Health check called
+[2026-06-29 13:40:45] [INFO] api: User logged out: juma@gmail.com
+[2026-06-29 13:41:48] [INFO] api: User logged in: juma@gmail.com
+[2026-06-29 13:41:48] [INFO] api: Health check called
+[2026-06-29 13:41:48] [INFO] api: Health check called
+[2026-06-29 13:41:54] [INFO] api: Question from juma@gmail.com: How do I register for courses?
+[2026-06-29 13:41:54] [INFO] api: Sending question to LLM: How do I register for courses?
+[2026-06-29 13:42:12] [INFO] api: LLM answered. Length: 327 chars
+[2026-06-29 13:42:12] [INFO] api: Answer generated for juma@gmail.com: To register for courses, check the course catalog on our university's website or visit your departme...
+[2026-06-29 13:42:51] [INFO] api: Question from juma@gmail.com: emuwaambie hii kazi ilivyongumu kukutengeneza man
+[2026-06-29 13:42:51] [INFO] api: Sending question to LLM: emuwaambie hii kazi ilivyongumu kukutengeneza man
+[2026-06-29 13:43:19] [INFO] api: LLM answered. Length: 475 chars
+[2026-06-29 13:43:19] [INFO] api: Answer generated for juma@gmail.com: Hai, mmoja wa kuamua ni lazima tuwe na kazi nyingi ili kukutengeneza man. Kuna majukumu mbalimbali y...
+[2026-06-29 13:56:44] [INFO] api: Health check called
+[2026-06-29 13:56:44] [INFO] api: Health check called
+[2026-06-29 14:11:25] [INFO] api: Question from juma@gmail.com: how to get academic calendar
+[2026-06-29 14:11:25] [INFO] api: Sending question to LLM: how to get academic calendar
+[2026-06-29 14:11:41] [INFO] api: LLM answered. Length: 243 chars
+[2026-06-29 14:11:41] [INFO] api: Answer generated for juma@gmail.com: You can find the academic calendar on our university's website or by contacting my office. We have a...
+[2026-06-29 14:12:15] [INFO] api: Question from juma@gmail.com: yes send
+[2026-06-29 14:12:15] [INFO] api: Sending question to LLM: yes send
+[2026-06-29 14:12:19] [INFO] api: LLM answered. Length: 69 chars
+[2026-06-29 14:12:19] [INFO] api: Answer generated for juma@gmail.com: I'm here to help with university services. What's your next question?...
+[2026-06-29 14:13:34] [INFO] api: Question from juma@gmail.com: what is regulation of university
+[2026-06-29 14:13:34] [INFO] api: Sending question to LLM: what is regulation of university
+[2026-06-29 14:13:46] [INFO] api: LLM answered. Length: 554 chars
+[2026-06-29 14:13:46] [INFO] api: Answer generated for juma@gmail.com: Regulation refers to the set of rules and guidelines established by the university to ensure academi...
+[2026-06-29 14:39:45] [INFO] api: Question from juma@gmail.com: what exam start time
+[2026-06-29 14:39:45] [INFO] api: Sending question to LLM: what exam start time
+[2026-06-29 14:39:57] [ERROR] api: LLM request timed out after 60 seconds
+[2026-06-29 14:39:57] [ERROR] api: Ollama timeout: The AI model took too long to respond. Please try again.
+[2026-06-29 14:40:19] [INFO] api: Health check called
+[2026-06-29 14:40:19] [INFO] api: Health check called
+[2026-06-29 14:40:24] [INFO] api: Question from juma@gmail.com: How do I pay my fees?
+[2026-06-29 14:40:24] [INFO] api: Sending question to LLM: How do I pay my fees?
+[2026-06-29 14:40:38] [INFO] api: LLM answered. Length: 417 chars
+[2026-06-29 14:40:38] [INFO] api: Answer generated for juma@gmail.com: To pay your fees, you can follow these steps:
+
+1. Log in to our university's online portal using you...
+[2026-06-29 14:46:57] [INFO] api: Health check called
+[2026-06-29 14:46:57] [INFO] api: Health check called
+[2026-06-29 14:47:12] [INFO] api: User logged out: juma@gmail.com
+[2026-06-29 15:39:46] [INFO] api: Health check called
+[2026-06-29 15:52:49] [INFO] api: Health check called
+[2026-06-29 16:00:01] [INFO] api: Health check called
+[2026-06-29 16:04:05] [INFO] api: User logged in: juma@gmail.com
+[2026-06-29 16:04:05] [INFO] api: Health check called
+[2026-06-29 16:04:05] [INFO] api: Health check called
+[2026-06-29 16:04:11] [INFO] api: Question from juma@gmail.com: How do I pay my fees?
+[2026-06-29 16:04:11] [INFO] api: Sending question to LLM: How do I pay my fees?
+[2026-06-29 16:04:38] [INFO] api: LLM answered. Length: 413 chars
+[2026-06-29 16:04:38] [INFO] api: Answer generated for juma@gmail.com: To pay your fees, you can log in to the University's online portal (e.g., student portal) using your...
+[2026-06-29 16:04:57] [INFO] api: Health check called
+[2026-06-29 16:09:50] [INFO] api: Health check called
+[2026-06-29 16:21:31] [INFO] api: Health check called
+[2026-06-29 16:31:47] [INFO] api: New user registered: zai@gmail.com
+[2026-06-29 16:34:09] [INFO] api: User logged in: zai@gmail.com
+[2026-06-30 08:59:05] [INFO] api: Health check called
+[2026-06-30 09:05:26] [INFO] api: New user registered: tester@university.ac
+[2026-06-30 09:05:26] [INFO] api: Health check called
+[2026-06-30 09:05:26] [INFO] api: Question from tester@university.ac: How do I register?
+[2026-06-30 09:05:26] [INFO] api: Sending question to LLM: How do I register?
+[2026-06-30 09:05:44] [INFO] api: LLM answered. Length: 516 chars
+[2026-06-30 09:05:44] [INFO] api: Answer generated for tester@university.ac: To register for your course, follow these steps:
+
+1. Check the course registration deadline on the u...
+[2026-06-30 09:05:44] [INFO] api: Question from tester@university.ac: What are the library hours?
+[2026-06-30 09:05:44] [INFO] api: Sending question to LLM: What are the library hours?
+[2026-06-30 09:05:51] [INFO] api: LLM answered. Length: 218 chars
+[2026-06-30 09:05:51] [INFO] api: Answer generated for tester@university.ac: Our library is open from 9 AM to 6 PM, Monday to Friday. However, please note that we may have exten...
+[2026-06-30 09:05:52] [INFO] api: Question from tester@university.ac: How do I pay fees?
+[2026-06-30 09:05:52] [INFO] api: Sending question to LLM: How do I pay fees?
+[2026-06-30 09:06:04] [INFO] api: LLM answered. Length: 358 chars
+[2026-06-30 09:06:04] [INFO] api: Answer generated for tester@university.ac: To pay your fees, please follow these steps:
+
+1. Log in to the online portal using your username and...
+[2026-06-30 09:06:05] [INFO] api: Question from tester@university.ac: What are exam rules?
+[2026-06-30 09:06:05] [INFO] api: Sending question to LLM: What are exam rules?
+[2026-06-30 09:06:12] [INFO] api: LLM answered. Length: 276 chars
+[2026-06-30 09:06:12] [INFO] api: Answer generated for tester@university.ac: For exam rules, I recommend checking the university's website or contacting your department directly...
+[2026-06-30 09:36:26] [INFO] api: Health check called
+[2026-06-30 09:41:18] [INFO] api: New user registered: testeapi@university.ac
+[2026-06-30 09:44:09] [WARNING] api: Failed login attempt for: testerapi@university.ac
+[2026-06-30 09:45:56] [WARNING] api: Failed login attempt for: testerapi@university.ac
+[2026-06-30 09:47:19] [INFO] api: User logged in: testeapi@university.ac
+[2026-06-30 09:55:46] [INFO] api: Question from testeapi@university.ac: How do I register for courses?
+[2026-06-30 09:55:46] [INFO] api: Sending question to LLM: How do I register for courses?
+[2026-06-30 09:56:16] [INFO] api: LLM answered. Length: 502 chars
+[2026-06-30 09:56:16] [INFO] api: Answer generated for testeapi@university.ac: To register for courses, please visit the University's website or check your student portal account....
+[2026-06-30 10:04:46] [INFO] api: User logged out: testeapi@university.ac
