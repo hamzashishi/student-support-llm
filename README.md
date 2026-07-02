@@ -220,8 +220,12 @@ See `docs/screenshots/` for evidence of:
 
 SAID HAMZA SHISHI   ----->    Backend (Django) |
 THOMAS SAKAWA       ----->   Frontend (React) |
-                    ----->   LLM integration |
-                    ----->   Testing |
-                    ----->   Documentation / Report |
+ VICTOR MANYALA LUGWISHA  ----->   LLM integration |
+CESARIA C MAJIYA           ----->   Testing |
+GRACE J GALINOMA           ----->   Documentation Report |
+DAVINA GODWIN RWEIKIZA     ----->   Report |
+FRANK FRAYSON MACHA         ----->   System architecture |
+                   
+                
 
 
